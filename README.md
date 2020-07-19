@@ -10,15 +10,15 @@ Run "python manage.py runserver" to start up your Django application.
 
 The Orders Application contains User Registration / Log In functionality.
 
-# Menu
+## Menu
 
 Users are able to choose different items from the menu.
 
-# Admin
+## Admin
 
 Site administrators (restaurant owners) should be able to add, update, and remove items on the menu. Add all of the items from the Pinnochio’s menu into your database using either the Admin UI or by running Python commands in Django’s shell.
 
-# Personal Touch / View and Cancel Orders
+### Personal Touch / View and Cancel Orders
 
 users are able to see all the Pending orders, and Cancel the pending Orders.
 
